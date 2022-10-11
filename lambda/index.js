@@ -15,7 +15,7 @@ const STREAMS = [
         'sources': [
           {
             'contentDescription': 'Dabble Radio',
-            'url': 'https://live.staticflickr.com/65535/52046580668_18aedc8ddd.jpg',
+            'url': 'https://raw.githubusercontent.com/Johnscor/AlexaRadio/main/images%20frontend/Skill%20Alexa%20front1.jpg',
             'widthPixels': 512,
             'heightPixels': 512,
           },
@@ -25,7 +25,7 @@ const STREAMS = [
         'sources': [
           {
             'contentDescription': 'Alternativa Cento e Quatro vírgula Nove FM',
-            'url': 'https://live.staticflickr.com/65535/52047648877_55fa6c28aa_b.jpg',
+            'url': 'https://raw.githubusercontent.com/Johnscor/AlexaRadio/main/images%20frontend/Skill%20Alexa%20front2.jpg',
             'widthPixels': 1200,
             'heightPixels': 800,
           },
