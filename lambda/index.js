@@ -7,7 +7,7 @@ const Alexa = require('ask-sdk-core');
 const STREAMS = [
   {
     'token': 'dabble-radio-1',
-    'url': 'https://alternativa104fm.page.link/Radio104fm38uv',
+    'url': 'https://stream.zeno.fm/y6sastcwu38uv',
     'metadata': {
       'title': 'Alternativa 104,9 FM',
       'subtitle': 'A rádio que mais toca você!',
